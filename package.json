@@ -1,0 +1,19 @@
+{
+  "name": "project8",
+  "version": "1.0.0",
+  "description": "Treehouse FSJS Project 8 - SQL Library Manager",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziziw/Project8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziziw/Project8/issues"
+  },
+  "homepage": "https://github.com/ziziw/Project8#readme"
+}
